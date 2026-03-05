@@ -47,10 +47,18 @@ nav a:hover {
 }
 
 .hero img {
+    width: 25%;
+    height: auto;
+}
+.baner {
+    position: relative;
+    text-align: center;
+}
+
+.baner img {
     width: 100%;
     height: auto;
 }
-
 .cta {
     padding: 2rem;
 }
